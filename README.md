@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:JOEL P
+### Register Number:212222230057
+![image](https://github.com/user-attachments/assets/c8241a2b-5e3c-4138-844b-475e473425e8)
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
